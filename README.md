@@ -33,3 +33,5 @@ Bu proje, mobil arayüz geliştirme, component yapısı ve ekran bazlı mimariyi
 ## Status
 🚧 Geliştirme devam ediyor  
 (UI ve mimari odaklı bir vitrin projesidir.)
+_Last update: February 2026_
+
